@@ -1,2 +1,2 @@
 # OrderManagement
-Order capture tool
+Order capturing tool
